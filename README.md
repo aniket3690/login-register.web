@@ -10,7 +10,7 @@ Secondly You Will Need MyPhpAdmin(Find Download Link Here):
 https://files.phpmyadmin.net/phpMyAdmin/5.2.1/phpMyAdmin-5.2.1-all-languages.zip
 
 After Downloading All The Stuff
-- Install Xampp On Your PcIts Really Simple.
+- Install Xampp On Your Pc I'ts Really Simple.
 - Now Unzip/Extract phpMyAdmin-5.2.1-all-languages.zip (PhpMyAdmin) That You've Downloaded.
 - Rename it to PhpMyAdmin.
 - Copy Both Above iven Project Folder(in my case named ls) And PhpMyAdmin Folder in C:/xampp/htdocs. (if htdocs folder is not there then create one.)
